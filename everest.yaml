@@ -1,0 +1,11 @@
+# Code-mod template by aridai
+# To distribute mod: only copy over the DLL folder and .yaml into the mod's ZIP
+# Code folder stores all of the classes
+# Ahorn folder stores the plugins - copy over if you're making a helper
+# Remove this comment once you've changed the template
+- Name: Mia
+  Version: 0.0.0
+  DLL: DLL/Mia.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.1761.0
