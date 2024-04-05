@@ -1,0 +1,46 @@
+No action
+Grab 
+Grab Up
+Grab Left
+Grab Down
+Grab Right
+Grab Up Left
+Grab Up Right
+Grab Down Left
+Grab Down Right
+Dash 
+Dash Up
+Dash Left
+Dash Down
+Dash Right
+Dash Up Left
+Dash Up Right
+Dash Down Left
+Dash Down Right
+Jump 
+Jump Up
+Jump Left
+Jump Down
+Jump Right
+Jump Up Left
+Jump Up Right
+Jump Down Left
+Jump Down Right
+Grab Dash 
+Grab Dash Up
+Grab Dash Left
+Grab Dash Down
+Grab Dash Right
+Grab Dash Up Left
+Grab Dash Up Right
+Grab Dash Down Left
+Grab Dash Down Right
+Grab Jump 
+Grab Jump Up
+Grab Jump Left
+Grab Jump Down
+Grab Jump Right
+Grab Jump Up Left
+Grab Jump Up Right
+Grab Jump Down Left
+Grab Jump Down Right
