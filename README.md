@@ -21,7 +21,7 @@ Execute `train` in the command line to open a cmd and access new functions for c
     - **Example**: `create([400,2048,1024,54])` generates a neural network with one input layer (400 neurons), two hidden layers (2048 and 1024 neurons, respectively), and one output layer (54 neurons).
 
 - **Training Your Neural Network**: Use `train(float, int, int)` to start training, specifying the learning rate, number of iterations over your dataset, and training sample size.
-    - **Note** : If you don't at all what is the learning rate, start with `0.001`. If your neural network don't seems to learn, you can try to change this value but do it carefully.
+    - **Note** : If you don't know at all what is the learning rate, start with `0.001`. If your neural network don't seems to learn, you can try to change this value but do it carefully.
 
 ## Step 3: Test Your Neural Network
 
