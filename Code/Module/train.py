@@ -125,11 +125,6 @@ def create(npc):
 #             return
 #     raise FileExistsError("pas de fichiers à sauvergarder")
 
-def test():
-    input = np.load("input.npy",[],True)
-    np.save(forpropagation(input),"output.npy")
-    np.save([True],"bool.npy")
-
 def ls():
     for file in os.listdir():
         if file[0] in "1234567890":
@@ -159,7 +154,7 @@ def train(lr, nb, t_samples, trainmode = -1):
                         backpropagation(output, labels, lr)
     n = len(nn)
     folder = f"{len(os.listdir())}"
-    os.makedirs(folder)
+    os.makedirs(f"Mia/{folder}")
     shutil.move("Mia/biases",f"Mia/{folder}/biases")
     shutil.move("Mia/weights",f"Mia/{folder}/weights")
     shutil.copytree("Mia/info",f"Mia/{folder}/info")
