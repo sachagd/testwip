@@ -1,4 +1,12 @@
 No action
+Up
+Left
+Down
+Right
+Up Left
+Up Right
+Down Left
+Down Right
 Grab 
 Grab Up
 Grab Left
